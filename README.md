@@ -1,3 +1,8 @@
+# About the project
+
+This project utilizes React Context System.\
+Data is accessed by "this.context" and "{Context}.Consumer" just to show the 2 different ways.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
